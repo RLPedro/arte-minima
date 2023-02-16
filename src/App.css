@@ -1,38 +1,48 @@
-.App {
-  text-align: center;
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+#logo {
+  width: 20rem;
+  position: fixed;
+  top: 0;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+#dragon {
+  width: 15rem;
+  position: fixed;
+  right: 2rem;
+  bottom: 2rem;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.icons-container {
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  justify-content: space-evenly;
+  position: fixed;
+  width: 15rem;
+  top: 6rem;
+  right: 2rem;
 }
 
-.App-link {
-  color: #61dafb;
+#spotify, #facebook {
+  width: 2rem;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.section-title {
+  text-align: center;
+  margin: 2rem 0;
+  font-size: 2rem;
+}
+
+.content {
+  width: 38rem;
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin: 6rem auto;
+  text-align: justify;
+  line-height: 2rem;
 }

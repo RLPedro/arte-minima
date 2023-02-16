@@ -1,0 +1,10 @@
+.contact {
+  font-size: 1.2rem;
+}
+
+.contact__contacts {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
