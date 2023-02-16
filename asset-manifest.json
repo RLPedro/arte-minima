@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/arte-minima/static/css/main.2c477387.css",
+    "main.js": "/arte-minima/static/js/main.193ad080.js",
+    "static/js/787.a9e9cf5a.chunk.js": "/arte-minima/static/js/787.a9e9cf5a.chunk.js",
+    "index.html": "/arte-minima/index.html",
+    "main.2c477387.css.map": "/arte-minima/static/css/main.2c477387.css.map",
+    "main.193ad080.js.map": "/arte-minima/static/js/main.193ad080.js.map",
+    "787.a9e9cf5a.chunk.js.map": "/arte-minima/static/js/787.a9e9cf5a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c477387.css",
+    "static/js/main.193ad080.js"
+  ]
+}
