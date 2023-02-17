@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/arte-minima/static/css/main.2c477387.css",
-    "main.js": "/arte-minima/static/js/main.324bd786.js",
+    "main.js": "/arte-minima/static/js/main.567e85e1.js",
     "static/js/787.a9e9cf5a.chunk.js": "/arte-minima/static/js/787.a9e9cf5a.chunk.js",
     "static/media/grupo.jpg": "/arte-minima/static/media/grupo.e19b7388bca3e51ad7f9.jpg",
     "static/media/grupo2.jpeg": "/arte-minima/static/media/grupo2.ea083a8e2209928cbf15.jpeg",
@@ -10,11 +10,11 @@
     "static/media/logo.png": "/arte-minima/static/media/logo.244d57aae28bd4a68798.png",
     "index.html": "/arte-minima/index.html",
     "main.2c477387.css.map": "/arte-minima/static/css/main.2c477387.css.map",
-    "main.324bd786.js.map": "/arte-minima/static/js/main.324bd786.js.map",
+    "main.567e85e1.js.map": "/arte-minima/static/js/main.567e85e1.js.map",
     "787.a9e9cf5a.chunk.js.map": "/arte-minima/static/js/787.a9e9cf5a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2c477387.css",
-    "static/js/main.324bd786.js"
+    "static/js/main.567e85e1.js"
   ]
 }
