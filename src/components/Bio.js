@@ -1,4 +1,6 @@
 import React from 'react';
+import grupo from "../imgs/grupo.jpg";
+import pedro from "../imgs/pedro.jpg";
 import "./Bio.css"
 
 export default function Bio() {
@@ -6,7 +8,8 @@ export default function Bio() {
     <div className="bio content">
       <div className="bio__text">
       <h3 className="section-title">BIO</h3>
-        <img id="grupo" src={'imgs/grupo.jpg'} alt={"Arte Mínima"} />
+        {/* <img id="grupo" src={'imgs/grupo.jpg'} alt={"Arte Mínima"} /> */}
+        <img id="grupo" src={grupo} alt={"Arte Mínima"} />
         <p>Founded by Pedro Sousa Silva in 2011, <span className="bio__title-ensemble">ARTE MINIMA</span> is a project dedicated
             to the interpretation of music from the 15th, 16th and 17th centuries,
             with a particular focus on Portuguese music from this period. The
@@ -38,7 +41,8 @@ export default function Bio() {
 
       <h3 className="bio__title-pedro">Pedro Sousa Silva</h3>
       <h4 className="bio__subtitle-pedro">Recorders and direction</h4>
-      <img id="pedro" src={'imgs/pedro.jpg'} alt={"Pedro Sousa Silva"} />
+      {/* <img id="pedro" src={'imgs/pedro.jpg'} alt={"Pedro Sousa Silva"} /> */}
+      <img id="pedro" src={pedro} alt={"Pedro Sousa Silva"} />
 
       <p>Born in 1974, Pedro Sousa Silva studied the recorder with Pedro Couto Soares
           at Escola Superior de Música de Lisboa (1992-1996), Reine-Marie Verhagen
